@@ -8,3 +8,9 @@ saved_models
 CNN_ALL_architechtures_jupyter_files.zip
 *.zip
 *.pdf
+*.jpg
+*.jpeg
+mode.pth
+model.pth
+*xlsx
+DataScience_Master_classes
